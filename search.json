@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "docs/content/index.html",
+    "href": "docs/content/index.html",
+    "title": "DSC3101",
+    "section": "",
+    "text": "Statistical simulation methods: Bootstrapping, Cross validation, Permutation tests , Analysis of variance (ANOVA) models: One-way ANOVA, Two-way ANOVA, Experimental designs, Multivariate data analysis: similarity measures, multivariate probability distributions, multivariate inference, Multivariate Analysis of variance (MANOVA), multiple comparison tests, Cluster analysis, Nonparametric statistical inference, Analyzing Categorical data: Contingency tables, graphical summaries of two-way contingency tables, three-way contingency tables, modeling categorical data, compile and self-publish scientific reports.\nAll the concepts are demonstrated using R software.\nPre-requisites: STA3052, STA3113, STA3131"
+  },
+  {
+    "objectID": "docs/content/index.html#recommended-texts",
+    "href": "docs/content/index.html#recommended-texts",
+    "title": "DSC3101",
+    "section": "Recommended Texts",
+    "text": "Recommended Texts\n\nLander, J.P. (2017). R for Everyone: Advanced Analytics and Graphics. 2nd Ed. Addison-Wesley Data & Analytics Series.\nPeng, R. D. (2018). R Programming for Data Science.\nWickham (2017). Advanced R. https://adv-r.hadley.nz/"
+  },
+  {
+    "objectID": "docs/content/index.html#course-evaluation",
+    "href": "docs/content/index.html#course-evaluation",
+    "title": "DSC3101",
+    "section": "Course Evaluation",
+    "text": "Course Evaluation\n\nContinuous Assessments (Mid Exam/Assignments): 40%\nEnd Semester Examination: 60%"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSC3101",
+    "section": "",
+    "text": "Advanced Statistics Applications II course teaches students to use statistical theory to solve real-life problems using Statistical tools and software packages. This course will help enhance their technical knowledge through laboratory sessions. The content of this course mainly covers the theoretical concepts such as Statistical Simulation Methods, Multivariate Data Analysis, Nonparametric Statistical Inference and Categorical Data Analysis. It also includes some practical sessions where students learn how to use more recent R packages for complex data manipulation and creating academic documents.\n\n\n\n\nNot to become an expert in all statistical software packages but to become an expert data scientist\nIdentify appropriate software packages available for advanced statistical data analysis techniques.\nApply the advanced statistical methods in practice and interpret the results.\nPerform a comprehensive statistical analysis, and compile and self publish a scientific report.\nSelf-explore the software tools available for statistical data analysis.\n\n\n\n\n\nProf. P. Wijekoon, Department of Statistics & Computer Science, University of Peradeniya, Sri Lanka.\nDr. Malima Atapattu, Department of Statistics & Computer Science, University of Peradeniya, Sri Lanka."
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Open Source License",
+    "section": "",
+    "text": "This website is protected under open source software licensed under the GNU GPL v2. Anyone can use the tools used for research and science are free and open. The source code of this website is available at https://github.com/pkwijekoon/courseweb/"
+  }
+]
